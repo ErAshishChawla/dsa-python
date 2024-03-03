@@ -7,6 +7,7 @@ Data Types in Python
 4. String(str) -> "Hello", "World", "Python", "3.7" (Anything in double quotes or single quotes)
 There is no char in python, single character is also a string
 
+5. Boolean(bool) -> True, False
 
 """
 
@@ -15,3 +16,9 @@ print(type(a), a)
 
 b = -0.0
 print(type(b), b)
+
+c = True
+print(type(c), c)
+
+d = "H"
+print(type(d), d)
