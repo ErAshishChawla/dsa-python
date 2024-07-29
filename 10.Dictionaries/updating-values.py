@@ -3,6 +3,8 @@ my_dict = {
     "akul": 11,
     "muskan": 79,
     "anirudh": 99,
+    (1, 2, 3): "tuple",
+    (1, 2, 3): "tuple",
 }
 
 print(my_dict)
