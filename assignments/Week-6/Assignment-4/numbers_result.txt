@@ -1,0 +1,6 @@
+34 even
+67 odd
+98 even
+11 odd
+-87 odd
+100 even
